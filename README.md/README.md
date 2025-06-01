@@ -98,7 +98,9 @@ http://localhost:5173
 
 ## 🌐 Despliegue en Vercel (opcional)
 
-\[Enlace a la aplicación desplegada en Vercel aquí - pendiente de agregar]
+\[Enlace a la aplicación desplegada en Vercel aquí - ]
+
+Puedes ver la aplicación funcionando aquí 👉 [https://mapa-capacidades.vercel.app](https://mapa-capacidades.vercel.app)
 
 ---
 
